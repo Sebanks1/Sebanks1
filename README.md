@@ -2,6 +2,10 @@
 
 I'm currently focused on building expertise in Identity and Access Management (IAM). I’ve completed hands-on projects in vulnerability management, threat detection, and an RMF case study that helped me develop a strong foundation in security. Check out my work to see how I’m sharpening my skills and diving deep into IAM.
 
+🛡️ Identity and Access Management (IAM) Lab Series
+
+- **[IAM SC-300 Lab Series](https://github.com/Sebanks1/vulnerability-management-program)**
+
 ## 🚀 Risk Management Framework (RMF) Project
 
 - **[Risk Management Framework (RMF) Process Case Study](https://github.com/Sebanks1/RMF-Process-Case-Study)**
