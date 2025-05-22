@@ -4,12 +4,13 @@ I'm currently focused on building expertise in Identity and Access Management (I
 
 🔐 Identity and Access Management (IAM) Lab Series
 
-- **[IAM SC-300 Lab Series](https://github.com/Sebanks1/IAM_SC-300_labs)**
+- **[IAM SC-300 Lab Series.](https://github.com/Sebanks1/IAM_SC-300_labs)**
 
 
 ## 🚀 Risk Management Framework (RMF) Project
 
 - **[Risk Management Framework (RMF) Process Case Study](https://github.com/Sebanks1/RMF-Process-Case-Study)**
+
   
 ## ⚠️ Vulnerability Management Projects
 
