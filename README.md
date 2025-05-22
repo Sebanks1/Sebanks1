@@ -1,8 +1,8 @@
-# <a href="https://www.linkedin.com/in/shaneebanks/">Shane Ebanks's</a> IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/shaneebanks/">Shane Ebanks's</a> IT and Cybersecurity Project Portfolio 💻
 
 I'm currently focused on building expertise in Identity and Access Management (IAM). I’ve completed hands-on projects in vulnerability management, threat detection, and an RMF case study that helped me develop a strong foundation in security. Check out my work to see how I’m sharpening my skills and diving deep into IAM.
 
-🛡️ Identity and Access Management (IAM) Lab Series
+🔐 Identity and Access Management (IAM) Lab Series
 
 - **[IAM SC-300 Lab Series](https://github.com/Sebanks1/IAM_SC-300_labs)**
 
