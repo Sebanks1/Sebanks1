@@ -2,6 +2,11 @@
 
 I'm currently focused on building expertise in Identity and Access Management (IAM). I’ve completed hands-on projects in vulnerability management, threat detection, and an RMF case study that helped me develop a strong foundation in security. Check out my work to see how I’m sharpening my skills and diving deep into IAM.
 
+## Draedreams IAM Capstone Project
+
+- **[IGA_PAM_IGA Capstone Project](https://github.com/Sebanks1/draedreams_capstone)**
+
+
 ## 🔐 Identity and Access Management (IAM) Lab Series
 
 - **[Identity and Access Management (IAM) SC-300 Lab Series.](https://github.com/Sebanks1/IAM_SC-300_labs)**
