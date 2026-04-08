@@ -4,7 +4,7 @@ I'm currently focused on building expertise in Identity and Access Management (I
 
 ## Draedreams IAM Capstone Project
 
-- **[IGA_PAM_IGA Capstone Project](https://github.com/Sebanks1/draedreams_capstone)**
+- **[IGA_PAM_IGA Capstone Project]([https://github.com/Sebanks1/draedreams_capstone](https://github.com/Sebanks1/DraeDreams-IAM-Capstone)**
 
 
 ## 🔐 Identity and Access Management (IAM) Lab Series
