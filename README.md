@@ -4,8 +4,6 @@ Security and compliance professional with extensive experience supporting financ
 
 My portfolio demonstrates real, evidenced work across identity lifecycle governance, access control, vulnerability management, threat detection, RMF authorization, and security compliance operations.
 
-Currently pursuing roles in GRC, IAM, IGA, and information security compliance.
-
 ## 📊 Draedreams IAM Capstone Project
 
 - **[Enterprise Identity & Access Management Portfolio — IAM | PAM | IGA](https://github.com/Sebanks1/DraeDreams-IAM-Capstone)**
