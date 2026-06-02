@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/shaneebanks/">Shane Ebanks's</a> IT and Cybersecurity Project Portfolio 💻
 
-Security and compliance professional with 10+ years of experience across financial services, defense contracting, and federal environments. Hands-on expertise in enterprise Identity and Access Management (IAM), Identity Governance and Administration (IGA), Privileged Access Management (PAM), and Governance, Risk and Compliance (GRC).
+Security and compliance professional with extensive experience supporting financial services, defense contracting, and federal environments. Skilled in identity and access management, identity governance and administration, privileged access management, NIST 800-53 control implementation, audit coordination, vulnerability management, risk assessments, and security compliance operations. Proven track record designing enterprise IAM and IGA frameworks, maintaining audit-quality evidence, and protecting enterprise and federal systems across highly regulated environments. Currently pursuing roles in GRC, IAM, IGA, and information security compliance.
 
 My portfolio demonstrates real, evidenced work across identity lifecycle governance, access control, vulnerability management, threat detection, RMF authorization, and security compliance operations.
 
