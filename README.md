@@ -1,6 +1,10 @@
 # <a href="https://www.linkedin.com/in/shaneebanks/">Shane Ebanks's</a> IT and Cybersecurity Project Portfolio 💻
 
-Identity and Access Management professional with hands-on experience designing and implementing enterprise IAM, PAM, and IGA controls in Microsoft Entra ID P2. My portfolio includes a full capstone covering identity provisioning, lifecycle governance, Conditional Access, Privileged Identity Management, entitlement management, external identity governance, and identity risk protection; all evidenced with real screenshots from a live tenant. Background in vulnerability management, threat detection, and RMF. Currently pursuing roles in IAM, IGA, and identity security.Identity and Access Management professional with hands-on experience designing and implementing enterprise IAM, PAM, and IGA controls in Microsoft Entra ID P2. My portfolio includes a full capstone covering identity provisioning, lifecycle governance, Conditional Access, Privileged Identity Management, entitlement management, external identity governance, and identity risk protection; all evidenced with real screenshots from a live tenant. Background in Governance, Risk and Compliance (GRC). Currently pursuing roles in IAM, IGA, and identity security.
+Security and compliance professional with 10+ years of experience across financial services, defense contracting, and federal environments. Hands-on expertise in enterprise Identity and Access Management (IAM), Identity Governance and Administration (IGA), Privileged Access Management (PAM), and Governance, Risk and Compliance (GRC).
+
+My portfolio demonstrates real, evidenced work across identity lifecycle governance, access control, vulnerability management, threat detection, RMF authorization, and security compliance operations.
+
+Currently pursuing roles in GRC, IAM, IGA, and information security compliance.
 
 ## 📊 Draedreams IAM Capstone Project
 
