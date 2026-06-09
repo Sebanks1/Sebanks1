@@ -20,7 +20,7 @@ My portfolio demonstrates real, evidenced work across identity lifecycle governa
 
 ##    NIST Risk Register_Risk Assessment_Risk Report_Project
 
-- **[Risk Management Framework (RMF) RMF-Step-4-Risk Register](https://github.com/Sebanks1**
+- **[Risk Management Framework (RMF) RMF-Step-4-Risk Outline](https://github.com/Sebanks1/NIST-Risk-Assessment-and-Risk-Management-Project)**
   
 ## ⚠️ Vulnerability Management Projects
 
