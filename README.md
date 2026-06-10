@@ -18,9 +18,9 @@ My portfolio demonstrates real, evidenced work across identity lifecycle governa
 
 - **[Risk Management Framework (RMF) Process Case Study](https://github.com/Sebanks1/RMF-Process-Case-Study)**
 
-## 📈 NIST Risk-Assessment-and-Risk-Management-Project (Step 4)
+## 📈 NIST Risk-Assessment-and-Risk-Management-Project
 
-- **[Risk Management Framework (RMF) RMF-Step-4-Risk Outline](https://github.com/Sebanks1/NIST-Risk-Assessment-and-Risk-Management-Project)**
+- **[Risk Management Framework (RMF) RMF-Risk Assessment](https://github.com/Sebanks1/NIST-Risk-Assessment-and-Risk-Management-Project)**
   
 ## ⚠️ Vulnerability Management Projects
 
