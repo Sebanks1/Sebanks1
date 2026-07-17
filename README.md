@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/shaneebanks/">Shane Ebanks's</a> IT and Cybersecurity Project Portfolio 💻
 
-GRC and cybersecurity compliance professional with experience across financial services, defense contracting, and federal environments. Skilled in the NIST Risk Management Framework (RMF), security control assessment and selection (NIST SP 800-53), risk register development (NIST SP 800-30), POA&M tracking, and continuous monitoring. Hands-on experience executing the full RMF lifecycle from system categorization through ATO authorization, plus identity and access management across enterprise and classified environments. Repos below include an RMF process case study and a vulnerability management exercise reflecting this work. Currently pursuing roles in GRC, RMF/ISSO, and information security.
+Security professional with experience across financial services, defense contracting, and federal environments. Skilled in the NIST Risk Management Framework (RMF), security control assessment and selection (NIST SP 800-53), risk register development (NIST SP 800-30), POA&M tracking, and continuous monitoring. Hands-on experience executing the full RMF lifecycle from system categorization through ATO authorization, plus identity and access management across enterprise and classified environments. Repos below include an RMF process case study and a vulnerability management exercise reflecting this work. Currently pursuing roles in GRC, RMF/ISSO, and information security.
 
 Changes from your old version:
 
