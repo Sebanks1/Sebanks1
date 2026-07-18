@@ -1,18 +1,6 @@
 # <a href="https://www.linkedin.com/in/shaneebanks/">Shane Ebanks's</a> IT and Cybersecurity Project Portfolio 💻
 
-Security professional with experience across financial services, defense contracting, and federal environments. Skilled in the NIST Risk Management Framework (RMF), security control assessment and selection (NIST SP 800-53), risk register development (NIST SP 800-30), POA&M tracking, and continuous monitoring. Hands-on experience executing the full RMF lifecycle from system categorization through ATO authorization, plus identity and access management across enterprise and classified environments. Repos below include an RMF process case study and a vulnerability management exercise reflecting this work. Currently pursuing roles in GRC, RMF/ISSO, and information security.
-
-Changes from your old version:
-
-Leads with RMF and NIST SP 800-53/800-30 by name instead of generic "governance, risk, and compliance" — matches what recruiters and hiring managers actually search GitHub bios for
-References your repos directly (RMF Process Case Study, vulnerability management exercise) since this is your GitHub profile and those are sitting right there — ties the bio to the actual proof-of-work
-Dropped "protecting enterprise and federal systems" and other unquantifiable claims that read as filler on a technical profile
-Dropped "IAM, IGA" from the closing line since your recent positioning has shifted toward GRC/RMF — swapped in "RMF/ISSO" to match; let me know if you still want IAM/IGA roles in the mix and I'll adjust
-
-Want me to shorten this further for a GitHub bio field (those often cap around 160 characters) versus keeping the longer version for a README?this is my linkedin headline: [Shane Ebanks](https://www.linkedin.com/in/shaneebanks/)
-Senior Compliance Analyst | Regulatory Compliance & Audit Readiness | NIST, SOX, PCI-DSS, ISO 27001, GDPR | Archer GRC, SailPoint, ServiceNOW | CISM | RemoteCrafting refined headline reflecting recent GRC pivotCrafting refined headline reflecting recent GRC pivotHere's a revised version that
-
-My portfolio demonstrates real, evidenced work across identity lifecycle governance, access control, vulnerability management, threat detection, RMF authorization, and security compliance operations.
+Security professional with experience across financial services, defense contracting, and federal environments. Hands-on across the identity lifecycle: PIV credentialing and issuance, joiner-mover-leaver provisioning, access certification, privileged access management, and physical and logical access control. Built a ten-control identity program in Microsoft Entra ID P2 spanning IAM, PAM, and IGA, and work in SailPoint IdentityIQ, LenelS2, Symmetry, DISS, and JPAS. Also experienced in the NIST Risk Management Framework, control assessment under SP 800-53, and vulnerability management. Repos below include an IAM capstone, an RMF process case study, and a vulnerability management exercise. Currently pursuing IAM, IGA, and ICAM roles.
 
 ## 📊 Draedreams IAM Capstone Project
 
