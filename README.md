@@ -2,7 +2,7 @@
 
 Security professional with experience across financial services, defense contracting, and federal environments. Hands-on across the identity lifecycle: PIV credentialing and issuance, joiner-mover-leaver provisioning, access certification, privileged access management, and physical and logical access control. Built a ten-control identity program in Microsoft Entra ID P2 spanning IAM, PAM, and IGA, and work in SailPoint IdentityIQ, LenelS2, Symmetry, DISS, and JPAS. Also experienced in the NIST Risk Management Framework, control assessment under SP 800-53, and vulnerability management. Repos below include an IAM capstone, an RMF process case study, and a vulnerability management exercise. Currently pursuing IAM, IGA, and ICAM roles.
 
-## 📊 Draedreams IAM Capstone Project
+## 📊 IAM Capstone Project
 
 - **[Enterprise Identity & Access Management Portfolio — IAM | PAM | IGA](https://github.com/Sebanks1/DraeDreams-IAM-Capstone)**
 
