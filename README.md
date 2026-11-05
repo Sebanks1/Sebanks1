@@ -7,7 +7,7 @@ Security professional with experience across financial services, defense contrac
 - **[Enterprise Identity & Access Management Portfolio — IAM | PAM | IGA](https://github.com/Sebanks1/DraeDreams-IAM-Capstone)**
 
 
-## 🔐 Identity and Access Management (IAM) Lab Series
+## 🔐 Identity and Access Management (IAM) Hands-on Lab Series
 
 - **[Identity and Access Management (IAM) Entra ID Hands-on Lab Series.](https://github.com/Sebanks1/IAM_Entra_ID_Hands-on_labs)**
 
