@@ -9,7 +9,7 @@ Security professional with experience across financial services, defense contrac
 
 ## 🔐 Identity and Access Management (IAM) Lab Series
 
-- **[Identity and Access Management (IAM) Entra ID Lab Series.](https://github.com/Sebanks1/IAM_SC-300_labs)**
+- **[Identity and Access Management (IAM) Entra ID Hands-on Lab Series.](https://github.com/Sebanks1/IAM_SC-300_labs)**
 
 
 ## 🚀 Risk Management Framework (RMF) Project
